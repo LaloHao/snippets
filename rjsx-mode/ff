@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ff
+# key: ff
+# --
+fontFamily: '$0',

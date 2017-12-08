@@ -1,20 +1,25 @@
 # -*- mode: snippet -*-
-# name: react-native
-# key: rn
+# name: rnc
+# key: rnc
 # --
 /*
  * `(file-name-nondirectory (buffer-file-name))`
- * @LaloHao
  */
 
 import React, {Component} from 'react';
+
 import {
     View,
     Text,
     StyleSheet,
 } from 'react-native';
 
-export default class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends Component {
+import {
+    HeightUnit,
+    WidthUnit,
+} from '.';
+
+export class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends Component {
     render() {
         return (
             <View style={styles.container}>
@@ -28,5 +33,5 @@ export default class `(file-name-nondirectory (file-name-sans-extension (buffer-
 
 const styles = StyleSheet.create({
     container: {
-    }
+    },
 });

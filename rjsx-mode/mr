@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: mr
+# key: mr
+# --
+marginRight: $0*WidthUnit,

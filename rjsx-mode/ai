@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ai
+# key: ai
+# --
+alignItems: '$0',

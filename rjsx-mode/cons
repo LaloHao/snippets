@@ -3,6 +3,9 @@
 # key: cons
 # --
 constructor(props){
-    super(props);
+  super(props);
+
+  this.state = {
     $0
+  };
 }

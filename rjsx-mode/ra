@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Redux action template
+# key: ra
+# --
+export const ${1:$(hao/redux-format-action-name yas-text)} = ($2) => {
+     return {
+         type: ${1:action$(upcase yas-text)},
+         ${2:$(hao/redux-format-action-parameters yas-text)}
+     };
+};
