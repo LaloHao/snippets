@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: pl
+# name: paddingLeft
 # key: pl
 # --
 paddingLeft: $0*WidthUnit,

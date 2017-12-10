@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: style
-# key: style
+# name: add style sheet to component
+# key: sitúale
 # --
 style={styles.$0}

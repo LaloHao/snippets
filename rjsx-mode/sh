@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: sh
+# name: style sheet template
 # key: sh
 # --
 $1: {

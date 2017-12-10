@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: fd
+# name: flexDirection
 # key: fd
 # --
 flexDirection: '$0',

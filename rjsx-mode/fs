@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: fs
+# name: fontSize
 # key: fs
 # --
 fontSize: $0,

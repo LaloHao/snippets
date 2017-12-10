@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: pb
+# name: paddingBottom
 # key: pb
 # --
 paddingBottom: $0*HeightUnit,

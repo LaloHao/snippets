@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: mr
+# name: marginRight
 # key: mr
 # --
 marginRight: $0*WidthUnit,

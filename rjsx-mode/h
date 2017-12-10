@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: h
+# name: height
 # key: h
 # --
 height: $0*HeightUnit,

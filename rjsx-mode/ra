@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: Redux action template
+# name: redux action template
 # key: ra
 # --
 export const ${1:$(hao/redux-format-action-name yas-text)} = ($2) => {

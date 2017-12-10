@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: bc
+# name: backgroundColor
 # key: bc
 # --
 backgroundColor: '#$0',
