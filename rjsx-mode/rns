@@ -11,15 +11,15 @@ import React, {Component} from 'react';
 import { connect } from 'react-redux';
 
 import {
-    Text,
-    StyleSheet,
+  Text,
+  StyleSheet,
 } from 'react-native';
 
 import {
-    Colors,
-    View,
-    HeightUnit,
-    WidthUnit,
+  Colors,
+  View,
+  HeightUnit,
+  WidthUnit,
 } from './components';
 
 @connect(
@@ -30,18 +30,18 @@ import {
   })
 )
 export default class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends Component {
-    render() {
-        return (
-            <View style={styles.container}>
-              <Text>
-                Content
-              </Text>
-            </View>
-        );
-    }
+  render() {
+      return (
+          <View style={styles.container}>
+            <Text>
+              Content
+            </Text>
+          </View>
+      );
+  }
 }
 
 const styles = StyleSheet.create({
-    container: {
-    }
+  container: {
+  },
 });
