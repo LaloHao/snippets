@@ -25,11 +25,11 @@ import {
 @connect(
   ({ router }) => ({
     nav: router
-  }, (dispatch) => {
-    dispatch
-  }
+  }), (dispatch) => ({
+    dispatch,
+  })
 )
-class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends Component {
+export default class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends Component {
     render() {
         return (
             <View style={styles.container}>
