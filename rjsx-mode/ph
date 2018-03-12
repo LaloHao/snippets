@@ -2,4 +2,4 @@
 # name: paddingHorizontal
 # key: ph
 # --
-paddingHorizontal: $0*WidthUnit,
+paddingHorizontal: $0 * WidthUnit,

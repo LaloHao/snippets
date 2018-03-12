@@ -2,4 +2,4 @@
 # name: marginRight
 # key: mr
 # --
-marginRight: $0*WidthUnit,
+marginRight: $0 * WidthUnit,

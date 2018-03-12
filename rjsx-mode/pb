@@ -2,4 +2,4 @@
 # name: paddingBottom
 # key: pb
 # --
-paddingBottom: $0*HeightUnit,
+paddingBottom: $0 * HeightUnit,

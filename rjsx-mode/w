@@ -2,4 +2,4 @@
 # name: width
 # key: w
 # --
-width: $0*WidthUnit,
+width: $0 * WidthUnit,

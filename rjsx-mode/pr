@@ -2,4 +2,4 @@
 # name: paddingRight
 # key: pr
 # --
-paddingRight: $0*WidthUnit,
+paddingRight: $0 * WidthUnit,

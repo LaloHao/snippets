@@ -2,4 +2,4 @@
 # name: paddingLeft
 # key: pl
 # --
-paddingLeft: $0*WidthUnit,
+paddingLeft: $0 * WidthUnit,

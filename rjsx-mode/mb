@@ -2,4 +2,4 @@
 # name: marginBottom
 # key: mb
 # --
-marginBottom: $0*HeightUnit,
+marginBottom: $0 * HeightUnit,
