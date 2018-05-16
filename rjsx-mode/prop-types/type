@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: PropTypes.oneOfType
+# key: type
+# --
+PropTypes.oneOfType([
+  $0
+]),

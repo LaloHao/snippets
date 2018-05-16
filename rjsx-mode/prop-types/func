@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: PropTypes.func
+# key: func
+# --
+PropTypes.func,

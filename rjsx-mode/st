@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: style={styles.$0}
+# key: st
+# --
+style={styles.$0}

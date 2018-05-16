@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: PropTypes.bool
+# key: bool
+# --
+PropTypes.bool,

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: PropTypes.element
+# key: element
+# --
+PropTypes.element,

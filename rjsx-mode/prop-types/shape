@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: PropTypes.shape
+# key: shape
+# --
+PropTypes.shape({
+  $0
+}),

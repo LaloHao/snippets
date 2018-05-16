@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: PropTypes.shape.isRequired
+# key: shaper
+# --
+PropTypes.shape({
+  $0
+}).isRequired,

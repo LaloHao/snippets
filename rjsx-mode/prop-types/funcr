@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: PropTypes.func.isRequired
+# key: funcr
+# --
+PropTypes.func.isRequired,

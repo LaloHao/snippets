@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: import from same directory
+# key: impc
+# --
+import { $1 } from './$1.js';$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: PropTypes.array
+# key: arr
+# --
+PropTypes.array,

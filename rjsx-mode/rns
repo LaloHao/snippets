@@ -7,7 +7,7 @@
  * @LaloHao
  */
 
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
 import {
@@ -20,16 +20,18 @@ import {
   View,
   HeightUnit,
   WidthUnit,
-} from './components';
+} from 'common';
 
-@connect(
-  ({ router }) => ({
-    nav: router
-  }), (dispatch) => ({
-    dispatch,
-  })
-)
-export default class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends Component {
+const mapStateToProps = ({ router }) => {
+  return { nav: router };
+};
+
+const mapDispatchToProps = (dispatch) => {
+  return { dispatch };
+};
+
+@connect(mapStateToProps, mapDispatchToProps)
+export class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends Component {
   render() {
       return (
           <View style={styles.container}>

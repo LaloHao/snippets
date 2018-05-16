@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: PropTypes.array.isRequired
+# key: arrr
+# --
+PropTypes.array.isRequired,

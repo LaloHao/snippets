@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: PropTypes.arrayOf
+# key: arrof
+# --
+PropTypes.arrayOf($0),

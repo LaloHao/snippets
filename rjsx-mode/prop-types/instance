@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: PropTypes.instanceOf
+# key: instance
+# --
+PropTypes.instanceOf($0),
