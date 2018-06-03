@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Redux#@connect(mstp, mdtp)
+# key: connect
+# --
+@connect(mapStateToProps, mapDispatchToProps)

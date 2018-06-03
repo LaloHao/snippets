@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: import PropTypes
-# key: improp
+# name: PropTypes
+# key: import
 # --
 import PropTypes from 'prop-types';

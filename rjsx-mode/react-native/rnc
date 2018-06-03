@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: react-native component
+# name: ReactNative#Component
 # key: rnc
 # --
 /*
@@ -10,32 +10,29 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
 import {
+  Colors,
   View,
   Text,
-  StyleSheet,
-} from 'react-native';
-
-import {
   HeightUnit,
   WidthUnit,
-} from './Dimensions.js';
+} from 'common';
 
 export class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>
-          Content
-        </Text>
+        <Text
+          value="Content"
+        />
       </View>
         );
     }
 }
 
-const styles = StyleSheet.create({
+const styles = {
   container: {
   },
-});
+};
 
 `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))`.propTypes = {
 

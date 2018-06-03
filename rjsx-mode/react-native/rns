@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: react-native screen
+# name: ReactNative#Screen
 # key: rns
 # --
 /*
@@ -11,11 +11,11 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
 import {
-  Text,
   StyleSheet,
 } from 'react-native';
 
 import {
+  Text,
   Colors,
   View,
   HeightUnit,
@@ -32,18 +32,19 @@ const mapDispatchToProps = (dispatch) => {
 
 @connect(mapStateToProps, mapDispatchToProps)
 export class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends Component {
-  render() {
-      return (
-          <View style={styles.container}>
-            <Text>
-              Content
-            </Text>
-          </View>
-      );
+ render() {
+   return (
+     <View style={styles.container}>
+       <Text
+         value="Content"
+       />
+     </View>
+   );
   }
 }
 
 const styles = StyleSheet.create({
   container: {
+    flex: 1,
   },
 });

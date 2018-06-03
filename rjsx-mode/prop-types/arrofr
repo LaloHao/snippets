@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: PropTypes.arrayOf
+# name: PropTypes.arrayOf.isRequired
 # key: arrofr
 # --
-PropTypes.arrayOf($0),
+PropTypes.arrayOf($0).isRequired,

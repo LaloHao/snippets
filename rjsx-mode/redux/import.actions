@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Redux#actions
+# key: import
+# --
+import { $1 } from 'actions';

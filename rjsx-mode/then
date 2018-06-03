@@ -2,4 +2,4 @@
 # name: then
 # key: then
 # --
-then($1 => $0);
+then($0)

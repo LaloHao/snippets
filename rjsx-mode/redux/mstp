@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Redux#mapStateToProps
+# key: mstp
+# --
+const mapStateToProps = ({ $1 }) => {
+  return {
+    $2,
+  };
+};$0

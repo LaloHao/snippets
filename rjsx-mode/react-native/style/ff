@@ -2,4 +2,4 @@
 # name: fontFamily
 # key: ff
 # --
-fontFamily: '$0',
+fontFamily: Fonts.$0,
