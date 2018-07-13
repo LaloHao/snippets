@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: describe # jest
+# key: desc
+# --
+describe('$1', () => {
+  beforeEach(() => {
+    $2
+  });
+
+  $0
+});
