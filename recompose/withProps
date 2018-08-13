@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: withProps # recompose
+# key: wp
+# --
+withProps($0)

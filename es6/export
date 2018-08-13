@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: export # ES6
+# key: e
+# --
+export $0

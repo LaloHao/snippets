@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: arrow function # ES6
+# key: af
+# --
+$1 => $0

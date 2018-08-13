@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: default # ES6
+# key: d
+# --
+default $0

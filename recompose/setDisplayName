@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: setDisplayName # recompose
+# key: sdn
+# --
+setDisplayName('$0'),

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: mapProps # recompose
+# key: mp
+# --
+mapProps($0)
