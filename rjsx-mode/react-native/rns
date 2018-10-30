@@ -7,7 +7,7 @@
  * @LaloHao
  */
 
-import React, { Component } from 'react';
+import React from 'react';
 import { connect } from 'react-redux';
 
 import {
@@ -31,7 +31,7 @@ const mapDispatchToProps = (dispatch) => {
 };
 
 @connect(mapStateToProps, mapDispatchToProps)
-export class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends Component {
+export class `(file-name-nondirectory (file-name-sans-extension (buffer-file-name)))` extends React.Component {
  render() {
    return (
      <View style={styles.container}>
