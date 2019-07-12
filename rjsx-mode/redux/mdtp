@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: Redux#mapDispatchToProps
-# key: mdtp
-# --
-const mapDispatchToProps = (dispatch) => {
-  return bindActionCreators({ $1 }, dispatch);
-};$0

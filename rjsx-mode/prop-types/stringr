@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.string.isRequired
-# key: stringr
-# --
-PropTypes.string.isRequired,

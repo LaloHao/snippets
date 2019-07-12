@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.oneOfType.isRequired
-# key: typer
-# --
-PropTypes.oneOfType([
-  $0
-]).isRequired,

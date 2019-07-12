@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: import # ES6
+# name: import # es6
 # key: i
 # --
-import { $1 } from '$()';
+import { $1 } from '$2';$0

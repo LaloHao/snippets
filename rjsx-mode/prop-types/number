@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.number
-# key: number
-# --
-PropTypes.number,

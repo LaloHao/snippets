@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.symbol.isRequired
-# key: symbolr
-# --
-PropTypes.symbol.isRequired,

@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.node.isRequired
-# key: noder
-# --
-PropTypes.node.isRequired,

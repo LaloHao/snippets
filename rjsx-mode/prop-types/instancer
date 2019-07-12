@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.instance.isRequired
-# key: instancer
-# --
-PropTypes.instanceOf($0).isRequired,

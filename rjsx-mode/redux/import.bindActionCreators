@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: Redux#bindActionCreators
-# key: import
-# --
-import { bindActionCreators } from 'redux';

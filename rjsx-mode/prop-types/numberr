@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.number.isRequired
-# key: numberr
-# --
-PropTypes.number.isRequired,

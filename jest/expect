@@ -2,4 +2,4 @@
 # name: expect # jest
 # key: ex
 # --
-expect($1).toBe($2);$0
+expect($1).$2($3);$0

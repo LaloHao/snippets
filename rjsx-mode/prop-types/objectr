@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.object.isRequired
-# key: objectr
-# --
-PropTypes.object.isRequired,

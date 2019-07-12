@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: redux type template
-# key: rt
-# --
-export const ${1:action$(upcase yas-text)} = '$1';

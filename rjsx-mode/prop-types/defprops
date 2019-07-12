@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: defaultProps
-# key: defprops
-# --
-defaultProps = {
-  $0
-};

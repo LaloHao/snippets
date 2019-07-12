@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: compose # recompose
-# key: comp
-# --
-compose(
-  $0
-);

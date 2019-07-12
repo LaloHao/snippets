@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.oneOf
-# key: one
-# --
-PropTypes.oneOf([
-  $0
-]),

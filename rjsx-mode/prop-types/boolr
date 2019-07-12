@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.bool.isRequired
-# key: boolr
-# --
-PropTypes.bool.isRequired,

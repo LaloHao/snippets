@@ -2,4 +2,4 @@
 # name: import # es6
 # key: imp
 # --
-import $1 from '$0';
+import $1 from '$2';$0

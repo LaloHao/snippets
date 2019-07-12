@@ -2,10 +2,7 @@
 # name: cons
 # key: cons
 # --
-constructor(props) {
+constructor(props: Props) {
   super(props);
-
-  this.state = {
-    $0
-  };
+  $0;
 }

@@ -2,19 +2,14 @@
 # name: Component # React
 # key: class
 # --
-class ${1:name} extends React.Component {
-  static displayName = '$1';
+interface Props {
+
+}
+
+class ${1:name} extends React.Component<Props> {
   render() {
     return (
       $0
     );
   }
 }
-
-$1.propTypes = {
-  $2
-};
-
-$1.defaultProps = {
-  $3
-};

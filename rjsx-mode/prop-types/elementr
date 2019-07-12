@@ -1,5 +1,0 @@
-# -*- mode: snippet -*-
-# name: PropTypes.element.isRequired
-# key: elementr
-# --
-PropTypes.element.isRequired,

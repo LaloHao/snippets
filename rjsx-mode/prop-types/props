@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-# name: propTypes
-# key: props
-# --
-propTypes = {
-  $0
-};
