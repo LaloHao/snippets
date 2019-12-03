@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+#name : jest's describe
+#key : desc
+#contributor : lalohao
+# --
+describe('$1', () => {
+  $0
+});

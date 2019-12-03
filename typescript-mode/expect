@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : jest's expect
+#key : expect
+#contributor : lalohao
+# --
+expect($1).$2($0);

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+#name : jest's test
+#key : test
+#contributor : lalohao
+# --
+test('$1', () => {
+  $0
+});
